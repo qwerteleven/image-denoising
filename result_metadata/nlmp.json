@@ -1,0 +1,294 @@
+{
+    "results": [
+        {
+            "PSNR": "36.91708852858423",
+            "SSIM": "0.9188882372456807",
+            "image_file": "../dataset/radisson/2f5d1a35a588bf1f30656cd69164b5bf_radisson.png"
+        },
+        {
+            "PSNR": "31.973392820736528",
+            "SSIM": "0.7401802794551036",
+            "image_file": "../dataset/radisson/ca9cd586448836b3a2d9fb43f130d923_radisson.png"
+        },
+        {
+            "PSNR": "32.949187528519204",
+            "SSIM": "0.6930298437962396",
+            "image_file": "../dataset/radisson/aa8861be95093d77cfaeada9a3688be8_radisson.png"
+        },
+        {
+            "PSNR": "32.282549633534174",
+            "SSIM": "0.7627102282308322",
+            "image_file": "../dataset/radisson/6f85ba09964f090eb34e10d78651603a_radisson.png"
+        },
+        {
+            "PSNR": "33.591712296904916",
+            "SSIM": "0.8214442011360774",
+            "image_file": "../dataset/radisson/1c8dc75051ef87956028d9f64db21e81.png"
+        },
+        {
+            "PSNR": "34.2677948371577",
+            "SSIM": "0.84962522891508",
+            "image_file": "../dataset/radisson/49deb1f9e8097a25d0cab085c177a831_radisson.png"
+        },
+        {
+            "PSNR": "31.93631255797515",
+            "SSIM": "0.7435405552832456",
+            "image_file": "../dataset/radisson/aa538a92fb39926796168c2ac424aa84_radisson.png"
+        },
+        {
+            "PSNR": "34.319515180150695",
+            "SSIM": "0.8403465092060318",
+            "image_file": "../dataset/radisson/3bd2479ac4e6575f6b7c5cba8f114780_radisson.png"
+        },
+        {
+            "PSNR": "31.178793695730825",
+            "SSIM": "0.7459584384807292",
+            "image_file": "../dataset/radisson/98593c187795f02973f4bc8715e9e1ef_radisson.png"
+        },
+        {
+            "PSNR": "33.340227665311524",
+            "SSIM": "0.7558143452977157",
+            "image_file": "../dataset/radisson/2b323c75e2c4f087a60a6291f2d7f6d2.png"
+        },
+        {
+            "PSNR": "37.0570889621673",
+            "SSIM": "0.915433723705374",
+            "image_file": "../dataset/radisson/55b0f6b11baec6f44094cd17a6bc81e7_radisson.png"
+        },
+        {
+            "PSNR": "32.40547784058113",
+            "SSIM": "0.7863301176314674",
+            "image_file": "../dataset/radisson/5a1ec90a5acb8b38b8f81e9e7ffe8413_radisson.png"
+        },
+        {
+            "PSNR": "33.11036979482658",
+            "SSIM": "0.757528997665445",
+            "image_file": "../dataset/radisson/06dc00a3a25bf6a35acd362eef70070f.png"
+        },
+        {
+            "PSNR": "43.50097697296569",
+            "SSIM": "0.9772354531985579",
+            "image_file": "../dataset/radisson/ff81df9947bb14b1eca8bb94b83f1075_radisson.png"
+        },
+        {
+            "PSNR": "32.82541397621177",
+            "SSIM": "0.8386694859861636",
+            "image_file": "../dataset/radisson/6b146b203d49a65e2bcc989690c160a5_radisson.png"
+        },
+        {
+            "PSNR": "33.403863671978975",
+            "SSIM": "0.8552544520684863",
+            "image_file": "../dataset/radisson/4e98c207d1741158dd1ac296878cd5d9.png"
+        },
+        {
+            "PSNR": "35.09545594527064",
+            "SSIM": "0.914790485990838",
+            "image_file": "../dataset/radisson/351aef4979c0d2c8cdf9e04c35268902_radisson.png"
+        },
+        {
+            "PSNR": "38.39961813330237",
+            "SSIM": "0.9569410319917352",
+            "image_file": "../dataset/radisson/5b0d16ca3fc5055e7bc8c70740a0996c_radisson.png"
+        },
+        {
+            "PSNR": "33.31981660922797",
+            "SSIM": "0.7757608699183955",
+            "image_file": "../dataset/radisson/2c40f0d10a208dba2fa214edbcc7e37c.png"
+        },
+        {
+            "PSNR": "32.7767205717892",
+            "SSIM": "0.8193664250204067",
+            "image_file": "../dataset/radisson/624bc5bb8264ceacce752f7c917ce092_radisson.png"
+        },
+        {
+            "PSNR": "34.70732865941197",
+            "SSIM": "0.8585313028834282",
+            "image_file": "../dataset/radisson/71e3cf679bb02401c808401de04928e3_radisson.png"
+        },
+        {
+            "PSNR": "34.18910637056528",
+            "SSIM": "0.8066821841834958",
+            "image_file": "../dataset/radisson/1d9ef7b1bc44f9a9acb67ed4d34a9841.png"
+        },
+        {
+            "PSNR": "33.243562111225735",
+            "SSIM": "0.8497287297272513",
+            "image_file": "../dataset/radisson/cef647a71e31389b7dc557cb0cbb8c74_radisson.png"
+        },
+        {
+            "PSNR": "34.9540576110676",
+            "SSIM": "0.9095257990440673",
+            "image_file": "../dataset/radisson/39d496303127ded79c7011ebf4f41f7f_radisson.png"
+        },
+        {
+            "PSNR": "31.993299326686948",
+            "SSIM": "0.6666879886905884",
+            "image_file": "../dataset/radisson/5a0f9d834a23e58f5257ebeb0cea7072.png"
+        },
+        {
+            "PSNR": "32.43915898323574",
+            "SSIM": "0.7797282497331607",
+            "image_file": "../dataset/radisson/1a633774c0894262c5713eb86d22c315_radisson.png"
+        },
+        {
+            "PSNR": "31.49938933499849",
+            "SSIM": "0.828445893041171",
+            "image_file": "../dataset/radisson/3a986eb58ddf270c05e67e2d4fe51781_radisson.png"
+        },
+        {
+            "PSNR": "32.394276348987596",
+            "SSIM": "0.7458131839413589",
+            "image_file": "../dataset/radisson/d0578fd5bc25e86ffb0aa09782633eec_radisson.png"
+        },
+        {
+            "PSNR": "32.33869853649952",
+            "SSIM": "0.7538004236895035",
+            "image_file": "../dataset/radisson/e9f3f61b58d03e90edf43e01d92f7c22_radisson.png"
+        },
+        {
+            "PSNR": "31.05084662309136",
+            "SSIM": "0.7583292624478538",
+            "image_file": "../dataset/radisson/b7973b8bfb81a34540a8ed89cf40d2ee_radisson.png"
+        },
+        {
+            "PSNR": "33.206157733444186",
+            "SSIM": "0.805824893368638",
+            "image_file": "../dataset/anfi/c6f77cd819ccdfceb0f48edcc3cab952_anfi.png"
+        },
+        {
+            "PSNR": "34.55559648923352",
+            "SSIM": "0.844664923427348",
+            "image_file": "../dataset/anfi/51dfea818d76b608d8ec22e1e03f3551_anfi.png"
+        },
+        {
+            "PSNR": "31.594690488791493",
+            "SSIM": "0.809712115962811",
+            "image_file": "../dataset/anfi/4cf49c40898a3651f553571cdcf0112f_anfi.png"
+        },
+        {
+            "PSNR": "32.05572951544946",
+            "SSIM": "0.7102686340439179",
+            "image_file": "../dataset/anfi/7c12d547951246b2aff5b0cc292234c5.png"
+        },
+        {
+            "PSNR": "35.75986868914632",
+            "SSIM": "0.8978660881632486",
+            "image_file": "../dataset/anfi/41eb8ec7dc7ed3fe0e28e6f7779bb2fa_anfi.png"
+        },
+        {
+            "PSNR": "32.90911725684312",
+            "SSIM": "0.7851658056665826",
+            "image_file": "../dataset/anfi/1384e7d76cf95ee2f077707d71fea39e_anfi.png"
+        },
+        {
+            "PSNR": "32.42541125609989",
+            "SSIM": "0.7778872445228538",
+            "image_file": "../dataset/anfi/fde5e19e4b8077c9c0e00a1d5dc7e4f7_anfi.png"
+        },
+        {
+            "PSNR": "34.041883737505394",
+            "SSIM": "0.8325677264925929",
+            "image_file": "../dataset/anfi/0be35f4a250a700488eb274f08962020.png"
+        },
+        {
+            "PSNR": "32.33895737841477",
+            "SSIM": "0.8313236522999075",
+            "image_file": "../dataset/anfi/db95bfa5f9d5f8800697865c71d3b177_anfi.png"
+        },
+        {
+            "PSNR": "33.32592264152784",
+            "SSIM": "0.727109501368091",
+            "image_file": "../dataset/anfi/7b4db313715f319745cd9d8eb264aa2a.png"
+        },
+        {
+            "PSNR": "33.34999345809973",
+            "SSIM": "0.7569023470871665",
+            "image_file": "../dataset/anfi/7b86e4145dcd3dfb451f88991483b405_anfi.png"
+        },
+        {
+            "PSNR": "31.801297885327514",
+            "SSIM": "0.8175882814641929",
+            "image_file": "../dataset/anfi/acb6b8867518ba199b7fd582808f06bc_anfi.png"
+        },
+        {
+            "PSNR": "33.63444021416069",
+            "SSIM": "0.7939707730477744",
+            "image_file": "../dataset/anfi/f6cc12619a6e228597302147bdd71777_anfi.png"
+        },
+        {
+            "PSNR": "35.08169432372834",
+            "SSIM": "0.8351498100575999",
+            "image_file": "../dataset/anfi/5c412a1955af8e1092ca96f0968bb313_anfi.png"
+        },
+        {
+            "PSNR": "32.09466649239365",
+            "SSIM": "0.7977749368057961",
+            "image_file": "../dataset/anfi/297ddf55bcff3467c01d5eb287156417_anfi.png"
+        },
+        {
+            "PSNR": "33.85557236133717",
+            "SSIM": "0.843176493563311",
+            "image_file": "../dataset/anfi/3d635c975b79cec849eaf6764789ea13_anfi.png"
+        },
+        {
+            "PSNR": "33.95285313622361",
+            "SSIM": "0.8265630489007658",
+            "image_file": "../dataset/anfi/5bf106bc1165c4d4ad9295c397a91a1d.png"
+        },
+        {
+            "PSNR": "32.26080357409102",
+            "SSIM": "0.8373037010115989",
+            "image_file": "../dataset/anfi/437ed178452b8513947955ddff421275_anfi.png"
+        },
+        {
+            "PSNR": "32.62907443098777",
+            "SSIM": "0.8033527449050762",
+            "image_file": "../dataset/anfi/f89b38fcbdba51136175c01cfb820fb6_anfi.png"
+        },
+        {
+            "PSNR": "33.70076340906421",
+            "SSIM": "0.7318147953067338",
+            "image_file": "../dataset/anfi/7c42069ca1f4f655b30e0db60d2ce595.png"
+        },
+        {
+            "PSNR": "34.16131728450487",
+            "SSIM": "0.8435124960499015",
+            "image_file": "../dataset/anfi/c3dce90078807113016dad4bc524c9a0_anfi.png"
+        },
+        {
+            "PSNR": "31.429309667513003",
+            "SSIM": "0.8073412209732793",
+            "image_file": "../dataset/anfi/fe38510ccb57b033d26a8f9f835f68ee_anfi.png"
+        },
+        {
+            "PSNR": "33.58470854986167",
+            "SSIM": "0.8221346260975736",
+            "image_file": "../dataset/anfi/328ba3b52e1f7f65d14dd29510a93ca6_anfi.png"
+        },
+        {
+            "PSNR": "34.02408933938963",
+            "SSIM": "0.8245176094636945",
+            "image_file": "../dataset/anfi/da26370d94e8a7828ae33986586d8065_anfi.png"
+        },
+        {
+            "PSNR": "33.75366413346547",
+            "SSIM": "0.8222341732699093",
+            "image_file": "../dataset/anfi/1a39bd48a126c450239026900810e2d6.png"
+        },
+        {
+            "PSNR": "33.96608518795531",
+            "SSIM": "0.7643081170628294",
+            "image_file": "../dataset/anfi/1c5ca6d04b788ba3b90d9f4ae58878f5_anfi.png"
+        },
+        {
+            "PSNR": "36.833915148333354",
+            "SSIM": "0.9035026007635096",
+            "image_file": "../dataset/anfi/3f45770e37160d241ee83322d0bc653c_anfi.png"
+        },
+        {
+            "PSNR": "32.26589058264069",
+            "SSIM": "0.8071105874656646",
+            "image_file": "../dataset/anfi/7620ae9f23a9d210b41dc36a8e9d2fb8_anfi.png"
+        }
+    ]
+}

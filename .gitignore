@@ -1,0 +1,7 @@
+methods/*
+dataset/*
+images/*
+ipol_methods/*
+results/*
+pruebas/*
+*/__pycache__/*

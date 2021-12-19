@@ -28,5 +28,5 @@
 |Evaluation|Method|
 |----------|------|
 
-<img src="https://github.com/qwerteleven/image-denoising/blob/main/assets/DCTdenoising.json.png" width="670"> DCTdenoising (PSNR SSIM)
+<img src="https://github.com/qwerteleven/image-denoising/blob/main/assets/DCTdenoising.json.png" width="670"> DCTd (PSNR SSIM)
 <img src="https://github.com/qwerteleven/image-denoising/blob/main/assets/nlmp.json.png" width="670"> nlmp (PSNR SSIM)

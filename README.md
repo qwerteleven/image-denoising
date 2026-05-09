@@ -97,7 +97,6 @@ Exploring the effect of sigma noise level on the denoised image (BM3D GPU):
 ### Visual Comparison of Methods
 
 | Method | Example |
-
 |--------|---------|
 | Original | ![original](https://github.com/qwerteleven/image-denoising/blob/main/assets/original.png) |
 | BM3D | ![bm3d](https://github.com/qwerteleven/image-denoising/blob/main/assets/bm3d.png) |
